@@ -1,0 +1,10 @@
+package exEstruturaSequencial;
+
+public class exSoma {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

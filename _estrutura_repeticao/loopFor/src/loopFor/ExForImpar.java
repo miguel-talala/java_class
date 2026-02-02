@@ -1,0 +1,20 @@
+package loopFor;
+
+
+import java.util.Scanner;
+
+public class ExForImpar {
+	public static void Main (String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("");
+		int x = sc.nextInt();
+		if(x >=1 && x <= 1000) {
+		for(int i = 1; i < 1000; i++);
+			
+		}
+		else {System.out.println("erro! número invalido.");}
+		
+		
+		sc.close();
+	}
+}

@@ -1,0 +1,22 @@
+package dadosEntrada;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+import jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput;
+
+public class application._poo.modificadoresDeAcesso.mod.SobreCarga
+{
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+	    Scanner sc = new Scanner(System.in);
+	    
+	    String s1,s2,s3;
+	    System.out.println("Digite 3 ");
+	    s1 = sc.nextLine();
+	    s2 = sc.nextLine();
+	    s3 = sc.nextLine();
+	    System.out.println("Palavras digitadas: " + s1 + "" + s2 + "" + s3);
+		sc.close();
+	}
+}

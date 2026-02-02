@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_exvetornegativo/_exvetornegativo.iml" filepath="$PROJECT_DIR$/_exvetornegativo/_exvetornegativo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_poo.iml" filepath="$PROJECT_DIR$/_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores/construtores.iml" filepath="$PROJECT_DIR$/construtores/construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membrosEstaticos/exMembroEstatico/exMembroEstatico.iml" filepath="$PROJECT_DIR$/membrosEstaticos/exMembroEstatico/exMembroEstatico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exPOO/exPOO.iml" filepath="$PROJECT_DIR$/exPOO/exPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membrosEstaticos/membrosEstaticos.iml" filepath="$PROJECT_DIR$/membrosEstaticos/membrosEstaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sobreCarga/sobreCarga.iml" filepath="$PROJECT_DIR$/sobreCarga/sobreCarga.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+package estruturaRepetitivas;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class EstruturaRepetitiva {
+
+	public static void main(String[] args) {
+	 Locale.setDefault(Locale.US);
+	 Scanner sc = new Scanner(System.in);
+	 System.out.println("Digite um numero: ");
+	 int numero = sc.nextInt();
+	 int soma = 0;
+	 while(numero != 0) {
+		 System.out.println("Digite mais um número: ");
+		 soma += numero;
+	 }
+	 System.out.println(soma);
+	 
+	 
+	 
+	 
+	 sc.close();
+	}
+
+}

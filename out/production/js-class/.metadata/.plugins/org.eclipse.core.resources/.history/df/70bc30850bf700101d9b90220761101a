@@ -1,0 +1,22 @@
+package doWhile;
+
+import java.util.Scanner;
+
+public class DoWhile {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		char resp = 's';
+
+		while (resp != 'n') {
+			System.out.println("Digite a temperatura em Celcius:");
+			double tempC = sc.nextDouble();
+			double tempF = 9 * tempC / 5 + 32;
+			System.out.printf("Equivalente a temperatura em Fahrenheit: %.2f", tempF);
+			System.out.println("Deseja continuar?:");
+
+		}
+		sc.close();
+	}
+
+}
