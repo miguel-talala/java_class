@@ -9,8 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/membrosEstaticos/exMembroEstatico/exMembroEstatico.iml" filepath="$PROJECT_DIR$/membrosEstaticos/exMembroEstatico/exMembroEstatico.iml" />
       <module fileurl="file://$PROJECT_DIR$/exPOO/exPOO.iml" filepath="$PROJECT_DIR$/exPOO/exPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foreach/foreach.iml" filepath="$PROJECT_DIR$/foreach/foreach.iml" />
       <module fileurl="file://$PROJECT_DIR$/membrosEstaticos/membrosEstaticos.iml" filepath="$PROJECT_DIR$/membrosEstaticos/membrosEstaticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/sobreCarga/sobreCarga.iml" filepath="$PROJECT_DIR$/sobreCarga/sobreCarga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapperclassesboxingunboxing/wrapperclassesboxingunboxing.iml" filepath="$PROJECT_DIR$/wrapperclassesboxingunboxing/wrapperclassesboxingunboxing.iml" />
     </modules>
   </component>
 </project>
