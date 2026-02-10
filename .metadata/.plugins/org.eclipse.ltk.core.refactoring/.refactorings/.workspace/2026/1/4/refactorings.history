@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;loopFor&apos;" deleteContents="false" description="Delete resource &apos;loopFor&apos;" element1="/loopFor" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1769027058149"/>&#x0A;<refactoring comment="Delete resource &apos;application._poo.modificadoresDeAcesso.mod.SobreCarga&apos;" deleteContents="false" description="Delete resource &apos;application._poo.modificadoresDeAcesso.mod.SobreCarga&apos;" element1="/application._poo.modificadoresDeAcesso.mod.SobreCarga" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1769027636866"/>
-</session>
