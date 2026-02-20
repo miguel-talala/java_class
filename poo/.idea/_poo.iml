@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/_construtores/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_contadobanco/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_encapsulamento/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_expensionato/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_expoo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_exvetores/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_exvetornegativo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_membrosestaticos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_sobrecarga/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_vetores/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_vetoresclasse/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/datahora/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/foreach/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lists/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matrizes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapperclassesboxingunboxing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/datahora" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
