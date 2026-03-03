@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //intansiacao com data-hora
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] vect = new int[n];
