@@ -6,6 +6,7 @@ import java.time.format.DateTimeFormatter;
 
 public class Formatacao {
     public static void main(String[] args) {
+
         LocalDate d01 = LocalDate.parse("2025-10-02");
         LocalDateTime d02 = LocalDateTime.parse("2025-10-07T02:30:40");
         Instant d03 = Instant.parse("2025-10-07T12:30:40Z");
@@ -14,7 +15,8 @@ public class Formatacao {
         DateTimeFormatter formatModel = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         DateTimeFormatter formatModelTime = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
         DateTimeFormatter formatInstant =   DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm").withZone(ZoneId.systemDefault());
-
+        DateTimeFormatter formatZone = DateTimeFormatter.ISO_DATE_TIME;
+        DateTimeFormatter formatInstantISO = DateTimeFormatter.ISO_INSTANT;
 
         System.out.println("d01 = " + formatModel.format(d01));
         System.out.println("d01 = " + d01.format(formatModel));
@@ -23,5 +25,9 @@ public class Formatacao {
         System.out.println("d02 = " + d02.format(formatModelTime));
         //Instant
         System.out.println("d03 = " + formatInstant.format(d03));
+        //ISO_ZONE_ID
+        System.out.println("d02(zone) = " + d02.format(formatInstantISO));
+        //ISO_INSTANT
+        System.out.println("d03 = " + formatInstantISO.format(d03));
     }
 }
