@@ -1,6 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94e74d10-b3db-4a2a-9503-c23684e615f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/_poo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_construtores/construtores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_construtores/src/Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_construtores/src/entities/Product1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_contadobanco/ContaDoBanco.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_contadobanco/contadobanco/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_contadobanco/src/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_encapsulamento/encapsulamento.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_encapsulamento/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_expensionato/_expensionato.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_expensionato/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_expensionato/src/entities/Rent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_expoo/exPOO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_expoo/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_expoo/src/entities/Estudante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_exvetores/src/entities/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_exvetores/src/vetores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_exvetornegativo/_exvetornegativo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_exvetornegativo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_membrosestaticos/exMembroEstatico/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_membrosestaticos/exMembroEstatico/src/util/DolarConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_membrosestaticos/membrosEstaticos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_membrosestaticos/src/membrosEstaticos/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_membrosestaticos/src/util/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_sobrecarga/sobreCarga.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_sobrecarga/sobrecarga/SobreCarga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_sobrecarga/src/entities/Product2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetores/_vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetores/out/production/_vetores/_poo/_vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetores/out/production/_vetores/_poo/_vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetores/out/production/_vetores/_poo/_vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetores/out/production/_vetores/_poo/_vetores/_vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetores/src/app/Vect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetoresclasse/src/Vect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/_vetoresclasse/src/entites/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datahora/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datahora/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datahora/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datahora/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datahora/src/datahora/instansiacao/Instansiacao/Instansiacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/foreach/foreach.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/foreach/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/lists/listex/listex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/lists/listex/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/lists/listex/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/lists/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/matrizes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/matrizes/.idea/matrizes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/matrizes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/matrizes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/matrizes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/matrizes/matrixex/matrixex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/matrizes/matrixex/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/matrizes/matrizes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/matrizes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/modificadoresdeacesso/mod/ModificadorDeAcesso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/wrapperclassesboxingunboxing/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/wrapperclassesboxingunboxing/src/entities/Product.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "miguel-talala"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/talala-dev/java_class.git",
+    "accountId": "b71836e4-0c6c-4cf8-a240-ac4aedf658d4"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="39V4UViUG7oyuXfusLih9i8JeVZ" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/miguel/Documents/java_class/java_class/_poo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94e74d10-b3db-4a2a-9503-c23684e615f1" name="Changes" comment="" />
+      <created>1770767920224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770767920224</updated>
+      <workItem from="1770767922105" duration="664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
