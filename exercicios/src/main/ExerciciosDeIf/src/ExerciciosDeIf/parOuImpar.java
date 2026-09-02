@@ -12,7 +12,7 @@ public class parOuImpar {
 
 	public void multiplo(int x, int y) {
 		if( x % y == 0 || y % x ==0) {
-			System.out.println("è multiplo saporra");
+			System.out.println( " é multiplo");
 		}else {
 			System.out.println("Não é multiplo");
 		}
